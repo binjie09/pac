@@ -19,5 +19,4 @@
 ||github.io^
 ||pan.baidu.com^
 ||mcbbs.net^
-||icloud.com^
-||mojang.com^
+||tieba.baidu.com^
