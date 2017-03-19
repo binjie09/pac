@@ -19,4 +19,15 @@
 ||github.io^
 ||pan.baidu.com^
 ||mcbbs.net^
-||tieba.baidu.com^
+||codehunt.com^
+||dwstatic.com^
+||adobe.com^
+||android.com^
+||mhxg.org^
+||bandwagonhost.com^
+||btmeet.net^
+||deeplearning.net^
+||prime-numbers.org^
+||live.com^
+||icloud.com^
+||amazon.com^
