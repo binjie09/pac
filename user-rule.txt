@@ -1,6 +1,10 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 ||blog.csdn.net^
+||nodejs.org^
+||homebrew.bintray.com^
+||registry.npmjs.org^
+||gitbooks.io^
 ||github.com^
 ||pan.baidu.com^
 ||avatars1.githubusercontent.com^
