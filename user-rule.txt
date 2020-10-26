@@ -1,37 +1,14 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
-||blog.csdn.net^
-||nodejs.org^
-||homebrew.bintray.com^
-||registry.npmjs.org^
 ||gitbooks.io^
 ||github.com^
-||pan.baidu.com^
 ||avatars1.githubusercontent.com^
 ||avatars2.githubusercontent.com^
 ||camo.githubusercontent.com^
 ||github-windows.s3.amazonaws.com^
-||duowan.com^
-||csdn.net^
-||img.bookask.com^
-||cnblogs.com^
 ||dwstatic.com^
-||go.microsoft.com^
 ||githubusercontent.com^
-||qt-project.org^
-||gtimg.com^
-||github.io^
-||pan.baidu.com^
-||mcbbs.net^
-||codehunt.com^
-||dwstatic.com^
-||adobe.com^
 ||android.com^
 ||mhxg.org^
 ||bandwagonhost.com^
-||btmeet.net^
-||deeplearning.net^
-||prime-numbers.org^
-||live.com^
-||icloud.com^
 ||amazon.com^
